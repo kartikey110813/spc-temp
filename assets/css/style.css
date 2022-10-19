@@ -1833,7 +1833,7 @@ section {
 }
 
 .blog .entry .entry-footer i {
-  color: #0d64fd;
+  color: #1b3c2b;
   display: inline;
 }
 
@@ -2231,7 +2231,7 @@ section {
   padding: 0;
   line-height: 1;
   font-weight: 700;
-  color: #47c78a;
+  color: #1b3c2b;
 }
 
 .footer .footer-newsletter form {
@@ -2259,14 +2259,14 @@ section {
   font-size: 16px;
   padding: 0 30px;
   margin: 3px;
-  background: #4154f1;
+  background: #1b3c2b;
   color: #fff;
   transition: 0.3s;
   border-radius: 4px;
 }
 
 .footer .footer-newsletter form input[type="submit"]:hover {
-  background: #5969f3;
+  background: #1b3c2b;
 }
 
 .footer .footer-top {
@@ -2301,7 +2301,7 @@ section {
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #47c78a;
+  color: #1b3c2b;
   font-family: "Nunito", sans-serif;
   margin-top: 3px;
 }
@@ -2323,13 +2323,13 @@ section {
 }
 
 .footer .footer-top .social-links a:hover {
-  color: #47c78a;
+  color: #1b3c2b;
 }
 
 .footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #47c78a;
+  color: #1b3c2b;
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
@@ -2363,14 +2363,14 @@ section {
 }
 
 .footer .footer-top .footer-links ul a {
-  color: #013289;
+  color: #1b3c2b;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
 }
 
 .footer .footer-top .footer-links ul a:hover {
-  color: #4154f1;
+  color: #1b3c2b;
 }
 
 .footer .footer-top .footer-contact p {
@@ -2380,12 +2380,12 @@ section {
 .footer .copyright {
   text-align: center;
   padding-top: 30px;
-  color: #47c78a;
+  color: #1b3c2b;
 }
 
 .footer .credits {
   padding-top: 10px;
   text-align: center;
   font-size: 13px;
-  color: #47c78a;
+  color: #1b3c2b;
 }
